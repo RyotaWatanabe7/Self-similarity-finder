@@ -33,3 +33,5 @@ For the Zener viscoelastic model, the training is performed using two types of s
 Since the scaling functions have two arguments, the graph of training results from a neural network becomes a two-dimensional surface.
 
 We have confirmed that these codes work with Python 3.9 and matplotlib 3.7.
+
+Our paper using these codes can be read on the arXiv [2406.03896](https://arxiv.org/abs/2406.03896).
